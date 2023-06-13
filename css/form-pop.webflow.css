@@ -39,6 +39,7 @@ body {
   margin-right: 5px;
   border: 1px black;
   border-radius: 5px;
+  display: block;
 }
 
 .closeX {
