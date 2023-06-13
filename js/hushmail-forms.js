@@ -1,4 +1,5 @@
 const priorUrl = Document.referrer
+console.log(priorUrl)
 
 const formImage = document.getElementById('formTrigger')
 formImage.addEventListener('mouseenter', (e) => {
