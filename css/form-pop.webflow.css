@@ -19,13 +19,14 @@ body {
   height: 100vh;
   grid-column-gap: 0px;
   grid-row-gap: 0px;
-  grid-template-rows: 1fr 592px 1fr;
+  grid-template-rows: 1fr 500px 1fr;
   grid-template-columns: 1fr 333px 1fr;
 }
 
 .form-container {
   background-color: #fff;
   border-radius: 10px;
+  padding: 10px;
 }
 
 #w-node-_3aaefbb8-998e-c6b6-947d-6720cb2cce19-6a6c8254, #w-node-_294accde-4eb0-84df-f822-76781e9197a0-5bf95b7b {
