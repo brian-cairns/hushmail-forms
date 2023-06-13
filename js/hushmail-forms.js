@@ -1,5 +1,7 @@
-window.resizeTo(350, 600)
+let params = `scrollbars=no,resizable=no,status=no,location=no,toolbar=no,menubar=no,
+width=600,height=300,left=400,bottom=100, target=_blank`;
 const formImage = document.getElementById('formTrigger')
 formImage.addEventListener('mouseenter', (e) => {
-    window.open('./index.html', '_top', 'popup')
+    window.open('./form.html', 'form', params)
 })
+
