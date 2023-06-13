@@ -19,7 +19,7 @@ body {
   height: 100vh;
   grid-column-gap: 0px;
   grid-row-gap: 0px;
-  grid-template-rows: 1fr 650px 1fr;
+  grid-template-rows: 1fr 667px 1fr;
   grid-template-columns: 1fr 333px 1fr;
 }
 
@@ -31,7 +31,7 @@ body {
 
 #w-node-_3aaefbb8-998e-c6b6-947d-6720cb2cce19-6a6c8254, #w-node-_294accde-4eb0-84df-f822-76781e9197a0-5bf95b7b {
   grid-area: 2 / 2 / 3 / 3;
-  align-self: stretch;
+  align-self:center;
 }
 
 img {
