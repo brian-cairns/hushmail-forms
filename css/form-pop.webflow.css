@@ -32,6 +32,12 @@ body {
   align-items:flex-start 
 }
 
+.close-row {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+}
+
 .close {
   background-color: #fff;
   border-radius: 10px;
