@@ -28,8 +28,8 @@ body {
   border-radius: 10px;
   padding: 10px;
   display: flex;
-  flex-direction: row;
-  align-items: end;
+  flex-direction: vertical;
+  align-items:flex-start 
 }
 
 .close {
