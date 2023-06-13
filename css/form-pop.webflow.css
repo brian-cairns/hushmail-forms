@@ -19,7 +19,7 @@ body {
   height: 100vh;
   grid-column-gap: 0px;
   grid-row-gap: 0px;
-  grid-template-rows: 1fr 500px 1fr;
+  grid-template-rows: 1fr 650px 1fr;
   grid-template-columns: 1fr 333px 1fr;
 }
 
